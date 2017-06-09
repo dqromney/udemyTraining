@@ -1,4 +1,6 @@
 # udemyTraining
+- go get github.com/dqromney/udemyTraining
+- go get -u github.com/dqromney/udemyTraining
 
 ### Get To This Document
 - https://goo.gl/PHKg07
